@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C,C++,HTML,CSS**
 
-- 📫 How to reach me **singhpawankumar457@gmail.com**
+- 📫 How to reach me **pawan.sin.in@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
